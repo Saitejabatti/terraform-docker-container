@@ -1,0 +1,4 @@
+ASUS@LAPTOP-0UP497J3 MINGW64 /c/terraform-docker-container
+$ terraform state list
+docker_container.nginx
+docker_image.nginx
